@@ -8,3 +8,4 @@ echo "cpu"
 sar 24
 echo "filesystem"
 df -h
+ifconfig
