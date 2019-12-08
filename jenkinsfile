@@ -1,6 +1,7 @@
 pipeline {
     agent any
-    stges{
+    
+    stages{
     stages ('Build') {
       steps {
         echo 'Building..'
@@ -18,5 +19,3 @@ pipeline {
       }
    }
 }
-      
-                
