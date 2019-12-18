@@ -10,3 +10,4 @@ echo "filesystem"
 df -h
 ifconfig
 hostname
+echo baig
