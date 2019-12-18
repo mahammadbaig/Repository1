@@ -11,3 +11,4 @@ df -h
 ifconfig
 hostname
 echo baig
+echo anwar
